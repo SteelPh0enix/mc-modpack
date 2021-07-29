@@ -2,3 +2,6 @@
 .gitattributes
 *.jar
 .gitignore
+README.md
+LICENSE
+.vscode/**
