@@ -4,7 +4,7 @@ Hello, this is my custom modpack for 1.16.5, based on Fabric. Basically, some Qo
 
 You need [packwiz](https://github.com/comp500/packwiz) to install this modpack. The instruction is below.
 
-**This modpack (and repository) contains [BSL shaders by BitsLabLab](https://bitslablab.com/bslshaders/). Make sure to activate them in graphics settings, for full experience (if your hardware can manage)!
+**This modpack (and repository) contains [BSL shaders by BitsLabLab](https://bitslablab.com/bslshaders/). Make sure to activate them in graphics settings, for full experience (if your hardware can manage)!**
 
 ## Modlist
 
