@@ -1,0 +1,216 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "662c39e5315f4960d7ff2d01f2dd903c2c13d372ecfadcd095919bb8066d941b"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "2963e14bd3e9a4598bbca7e7d9e2172d18a2a1d3fe5b5cd2c6dd9f612c6bb64f"
+metafile = true
+
+[[files]]
+file = "mods/bclib.toml"
+hash = "4124572aafe04cbf5ba872523265b55aae48ebee60b44f4883a18a0bcdf4b1d3"
+metafile = true
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "683c4b9cecb21da2db64bc296c7ea09a0ec0b04edb68e7b76f712c7c2d1aad79"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "d240966fe24d220f3768d3e86fe99578a649ed294d237986c088a0a18ae99cf9"
+metafile = true
+
+[[files]]
+file = "mods/betternether.toml"
+hash = "93b3f5252c5c58ba6e4cff30fab4d6e32b96f2add17b1e57e8d92f6f7ecc268a"
+metafile = true
+
+[[files]]
+file = "mods/blast.toml"
+hash = "10e9f3d206be5b9692c79dc63a5f210ea773b4d82486c216a2d4e5136f0df5a6"
+metafile = true
+
+[[files]]
+file = "mods/blockus.toml"
+hash = "61e0190866df7a2fb5d3377b8a4a8ab29da7138219322b0af33e8ac0b5406614"
+metafile = true
+
+[[files]]
+file = "mods/cave-biomes.toml"
+hash = "f3033dbdbdd24803abb78155dd96be15dcd00daba75516132c0f718014d154f9"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.toml"
+hash = "c880885c38695412ceab953579b58dd29b43d68d4e560a3e6944cde1d76bac81"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "4ac362da27727d78e5105fe2a2da78db6926aacddf1377bd662eb154a31e63f8"
+metafile = true
+
+[[files]]
+file = "mods/compressed-blocks-for-fabric.toml"
+hash = "ea6f1eb0e2fd3aede0d76f1f3e57ada1fd702c14d63d8f0c7ed9d621f420bf71"
+metafile = true
+
+[[files]]
+file = "mods/diggus-maximus.toml"
+hash = "97b99e0cc413477494bce149ad04afdb0f533bdc67dd004f671d0c44f3a697b8"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage-fabric.toml"
+hash = "d8ba677ff810ca9121d37bde9e7284f85ad5564ddcce61ab067fd9e5903dd73f"
+metafile = true
+
+[[files]]
+file = "mods/extra-alchemy.toml"
+hash = "0a711e4e93574361a6ba7b7d698bcd234c01aad70df50fa83e4748f66be1dd48"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "4453d1ec99ab954ebafe44fae15be22bf3233db6351161d2ac988efb9e7ca35e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-furnaces.toml"
+hash = "2b6985660ed8baabaf006f859ec0c4bd0ede58ebb3b656b9630df97132b5caff"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "fc01dca8a92724ac74d2a848b3aa06e70a3b05cb10fdb91c684abe684459ac1a"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "9e65a3bf90feac8f79c6127378d9ee0a29976f74cf46bf105be808b6f6d42a0a"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.toml"
+hash = "184a2d8f52feb7a1e600ac0c297381e5ef58ac0d9f70ac84c7ed514021499267"
+metafile = true
+
+[[files]]
+file = "mods/inmis.toml"
+hash = "d81a709054e5a9b0613475dc99ff088d7f6585677d1b5e6643f9edc837795b65"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.toml"
+hash = "1cda628391f54a8c6deac8c427f43b383b109472df8548222c722ba9c3cb6241"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.toml"
+hash = "22c11b4fff031db6b9c46606c09eb108ece04c1a94236888225a12b0a9434aa4"
+metafile = true
+
+[[files]]
+file = "mods/inventory.toml"
+hash = "5642c4e407eb7f764b3981b6589db28ebe3a3cc8f40dd231ec24a2a2883d7289"
+metafile = true
+
+[[files]]
+file = "mods/jade.toml"
+hash = "afd510f1c881327d466a0eb89b79723bd459b1efb1487cde91b3a21d9d657cfe"
+metafile = true
+
+[[files]]
+file = "mods/libcd.toml"
+hash = "a7156f6e5dce792da3250d6d4656cdd7b76866bb1c788b1a7d9ff92215234a0b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "08f60b30a7267de38af1c8780bb0932e02fa0bafbb49290d8c224fb2102415ed"
+metafile = true
+
+[[files]]
+file = "mods/mo-colors.toml"
+hash = "a08f24d4a06fa706eb0f2b8435ee87b0f8a1833c2b56edac185e30ec7912f87e"
+metafile = true
+
+[[files]]
+file = "mods/mo-glass.toml"
+hash = "bddfd4dcebb2b051aaf999895875cad37076733174d38f68b01b61a40d7c07c0"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.toml"
+hash = "16048a85ecb39fe88f3790e82ea6e57223ed3c860318d565c085d2b93da71f60"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "5bcde1c832a4a39997f83e0172a01875997722744134a6896484854801cb543d"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.toml"
+hash = "99018c7061dfdb6ada3a24caaaba5d950ca4a9648b96266d0a141ae4183f23fb"
+metafile = true
+
+[[files]]
+file = "mods/netherite-plus-mod.toml"
+hash = "e09926973eeef5701a8cb62cb94e5074ab4fb27266b817241ecb42cf6b314b70"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "fc6d55dfad363110ca81ffda6510dac8aa3cecdad04d0ded6ed9e706764b2825"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.toml"
+hash = "849e0e5dc8d20a1dacf3f58f45176100315e8c1f68652aeae48cca0c664d22f8"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "3388f1488460e5d2d16e9c079db90258179ec4ec221fb8d75f5a6d769908990d"
+metafile = true
+
+[[files]]
+file = "mods/staff-of-building.toml"
+hash = "df98bb0112f2942422dd8e59763b1882499e5712635c059f2b27ee74a4a38ea0"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "c6f5f693d609f24e6955cb4f2df057a18606e6cb12efbf4e7e5595213f9f4122"
+metafile = true
+
+[[files]]
+file = "mods/traverse.toml"
+hash = "5a401efbb4956e1a2d830f0f314e7362529feee42beeb54ba3a8a1fab9d6018e"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-excavators.toml"
+hash = "9d9f1d56e62980bab5bd13f795fb92ff96cdd7f90a9a6d2c93b758c44875cf69"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers.toml"
+hash = "ac1c201eee4f7f6ae2f3fc4aca31a1a2b6e840104b2b5776c11e590e8250f522"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "a3338d179286af8703bee5b0e0ff6e836c0b5d197a57438f56ef5481e1adaf23"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "53fedc72091eb28f2a826425ae7fa0874c42cc084ed265a02801afcf2cc5e3fc"
+metafile = true

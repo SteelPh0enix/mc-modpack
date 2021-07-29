@@ -1,0 +1,12 @@
+name = "SteelPh0enix Modpack"
+author = "SteelPh0enix"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f034ff1b52aba0c58649e44515f17f1d4fe3661249dea4f8beede823872b783f"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.16.5"
