@@ -106,18 +106,13 @@ hash = "d81a709054e5a9b0613475dc99ff088d7f6585677d1b5e6643f9edc837795b65"
 metafile = true
 
 [[files]]
-file = "mods/inventory-hud-forge.toml"
-hash = "1cda628391f54a8c6deac8c427f43b383b109472df8548222c722ba9c3cb6241"
-metafile = true
-
-[[files]]
 file = "mods/inventory-sorting.toml"
 hash = "22c11b4fff031db6b9c46606c09eb108ece04c1a94236888225a12b0a9434aa4"
 metafile = true
 
 [[files]]
-file = "mods/inventory.toml"
-hash = "5642c4e407eb7f764b3981b6589db28ebe3a3cc8f40dd231ec24a2a2883d7289"
+file = "mods/irisshaders.toml"
+hash = "2c7c0bcbda1f9c6c036ed19815d856aaaaf871a19aad502dd92dc2ba44d2d62e"
 metafile = true
 
 [[files]]
