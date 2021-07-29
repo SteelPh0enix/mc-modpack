@@ -223,3 +223,7 @@ metafile = true
 file = "mods/xaeros-world-map.toml"
 hash = "53fedc72091eb28f2a826425ae7fa0874c42cc084ed265a02801afcf2cc5e3fc"
 metafile = true
+
+[[files]]
+file = "shaderpacks/BSL_v8.0.01.zip"
+hash = "2f4da1e1d231c7723a3cf423c1df988cee8fa2ba564545a8ced40442797ea0cc"
