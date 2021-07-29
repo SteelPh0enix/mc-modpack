@@ -45,6 +45,11 @@ hash = "61e0190866df7a2fb5d3377b8a4a8ab29da7138219322b0af33e8ac0b5406614"
 metafile = true
 
 [[files]]
+file = "mods/can-i-mine-this-block.toml"
+hash = "ef35d0a6331d1833b7298146f6b310eca77db90e29b3e047ee39244a8ec309ee"
+metafile = true
+
+[[files]]
 file = "mods/cave-biomes.toml"
 hash = "f3033dbdbdd24803abb78155dd96be15dcd00daba75516132c0f718014d154f9"
 metafile = true
@@ -120,11 +125,6 @@ hash = "2c7c0bcbda1f9c6c036ed19815d856aaaaf871a19aad502dd92dc2ba44d2d62e"
 metafile = true
 
 [[files]]
-file = "mods/jade.toml"
-hash = "afd510f1c881327d466a0eb89b79723bd459b1efb1487cde91b3a21d9d657cfe"
-metafile = true
-
-[[files]]
 file = "mods/libcd.toml"
 hash = "a7156f6e5dce792da3250d6d4656cdd7b76866bb1c788b1a7d9ff92215234a0b"
 metafile = true
@@ -132,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "08f60b30a7267de38af1c8780bb0932e02fa0bafbb49290d8c224fb2102415ed"
+metafile = true
+
+[[files]]
+file = "mods/megane.toml"
+hash = "d943039c7bf4779c10a193a40d9b417628ea877bf8b0ae8891ebff985e643622"
 metafile = true
 
 [[files]]
@@ -202,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.toml"
 hash = "ac1c201eee4f7f6ae2f3fc4aca31a1a2b6e840104b2b5776c11e590e8250f522"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "cb8e8c9c82a018c6184a114f6c607375785643a545a44b86a0ae510e27640f09"
 metafile = true
 
 [[files]]
