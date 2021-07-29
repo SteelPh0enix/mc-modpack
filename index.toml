@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitignore"
+hash = "863cb965129e911e3e6588ed5f51479beadf02dfd1350e3663982ca77c012e2f"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "662c39e5315f4960d7ff2d01f2dd903c2c13d372ecfadcd095919bb8066d941b"
 metafile = true
@@ -209,3 +213,11 @@ metafile = true
 file = "mods/xaeros-world-map.toml"
 hash = "53fedc72091eb28f2a826425ae7fa0874c42cc084ed265a02801afcf2cc5e3fc"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "dc4b9531bf6bb6151761f247bcefae5da76951db73d9dcf48da3c2ee2f84e259"
