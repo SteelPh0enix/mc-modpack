@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitignore"
-hash = "863cb965129e911e3e6588ed5f51479beadf02dfd1350e3663982ca77c012e2f"
-
-[[files]]
 file = "mods/adorn.toml"
 hash = "662c39e5315f4960d7ff2d01f2dd903c2c13d372ecfadcd095919bb8066d941b"
 metafile = true
