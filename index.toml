@@ -56,6 +56,11 @@ hash = "c880885c38695412ceab953579b58dd29b43d68d4e560a3e6944cde1d76bac81"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.toml"
+hash = "b94aa59b3d94d9ccef53daa37e1fd6b64df4dd4174638a0928d140bbadc75d7b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "4ac362da27727d78e5105fe2a2da78db6926aacddf1377bd662eb154a31e63f8"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/reborncore.toml"
 hash = "849e0e5dc8d20a1dacf3f58f45176100315e8c1f68652aeae48cca0c664d22f8"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "9d9fb90ed3970eed0a2d4c8735356c53229534adac220dae438392a79c814a17"
 metafile = true
 
 [[files]]
