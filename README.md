@@ -14,6 +14,7 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 
 * **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)** - An industrial mod made for Fabric.
 * **[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)** - Tech Reborn is a completely standalone tech mod including tools and machines to gather resources.
+* **[TIS-3D](https://www.curseforge.com/minecraft/mc-mods/tis-3d)** - Low-tech computing for Minecraft!
 
 ### Worldgen
 
@@ -51,8 +52,10 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[cAn i MiNe thIS bLOCk?](https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block)** - This mod is for very smart people who need a mod to know if they can mine a block. *WTHIT addition.*
 * **[CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)** - Attack enemies through obstructions!
 * **[Compressed Blocks for Fabric](https://www.curseforge.com/minecraft/mc-mods/compressed-blocks-for-fabric)** - Adds compressed blocks to Minecraft.
+* **[CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)** - Completely Customize the way others see you play in Discord!
 * **[Diggus Maximus](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus)** - Lightweight vein mining.
 * **[Illuminations 🔥](https://www.curseforge.com/minecraft/mc-mods/illuminations)** - A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.
+* **[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)** - Adds your main inventory, potion effects and your equipments to your HUD.
 * **[Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)** - Quick, simple, and lightweight inventory sorting.
 * **[Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)** - A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
 * **[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)** - An optimization mod for Minecraft which improves server performance significantly.

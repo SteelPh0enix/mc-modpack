@@ -71,6 +71,11 @@ hash = "ea6f1eb0e2fd3aede0d76f1f3e57ada1fd702c14d63d8f0c7ed9d621f420bf71"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.toml"
+hash = "9be4752f5a6038b07b9eabb77fdb0f7c6d02b402c8511a2114d82e2e2a042ed5"
+metafile = true
+
+[[files]]
 file = "mods/diggus-maximus.toml"
 hash = "97b99e0cc413477494bce149ad04afdb0f533bdc67dd004f671d0c44f3a697b8"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/inmis.toml"
 hash = "d81a709054e5a9b0613475dc99ff088d7f6585677d1b5e6643f9edc837795b65"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.toml"
+hash = "1cda628391f54a8c6deac8c427f43b383b109472df8548222c722ba9c3cb6241"
 metafile = true
 
 [[files]]
@@ -198,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.toml"
 hash = "c6f5f693d609f24e6955cb4f2df057a18606e6cb12efbf4e7e5595213f9f4122"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d.toml"
+hash = "66fa6e7240222d766a3182c840a5843374b5d0921c1a41253e35e51f28e0fbab"
 metafile = true
 
 [[files]]
