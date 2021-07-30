@@ -1,4 +1,4 @@
-# SteelPh0enix Minecraft 1.16.5 Modpack
+# SteelPh0enix's Minecraft 1.16.5 Modpack
 
 Hello, this is my custom modpack for 1.16.5, based on Fabric. Basically, some QoL, technical, utility, blocks, and worldgen mods i've found around, with addition of some performance mods like Sodium, Phosphor and Lithium. It also features working shaders, thanks to [Iris](https://github.com/IrisShaders/Iris).
 
@@ -75,6 +75,25 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)** - Powering Team Reborn.
 
 ## Installation guide
+First, get [packwiz installer bootstrapper](https://github.com/comp500/packwiz-installer-bootstrap/releases) and put it in the same directory as your Minecraft **instance** (`.minecraft` or `minecraft` directory, depending on your OS)
+
+Then, you have to open command-line in this directory, and run it with the direct URL to `pack.toml`. The command should look like this:
+
+```bash
+java -jar ./packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/SteelPh0enix/mc-modpack/master/pack.toml
+```
+
+You should see a progressbar, and when it finishes you can run your Minecraft.
+
+**If you're using a launcher that has an option to run pre-launch command** (like MultiMC), add this as pre-launch command so it'll be automatically ran before Minecraft to update/install new mods and other files.
+
+![multimc_prelaunch](./img/multimc.png)
+
+The command-line for MultiMC will look like this:
+
+```bash
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/SteelPh0enix/mc-modpack/master/pack.toml
+```
 
 ## Contributing
 
