@@ -3,7 +3,7 @@ filename = "InventoryHUD-fabric-[1.16.2-1.16.5]-3.3.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3296/747/InventoryHUD-fabric-[1.16.2-1.16.5]-3.3.0.jar"
+url = "https://edge.forgecdn.net/files/3296/747/InventoryHUD-fabric-%5B1.16.2-1.16.5%5D-3.3.0.jar"
 hash-format = "murmur2"
 hash = "2704117489"
 
