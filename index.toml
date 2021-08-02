@@ -136,6 +136,11 @@ hash = "2c7c0bcbda1f9c6c036ed19815d856aaaaf871a19aad502dd92dc2ba44d2d62e"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "f30f80e947dc98a48704a379ab63cf52aa8fe185c985bf6207a879920fa6837a"
+metafile = true
+
+[[files]]
 file = "mods/libcd.toml"
 hash = "a7156f6e5dce792da3250d6d4656cdd7b76866bb1c788b1a7d9ff92215234a0b"
 metafile = true
