@@ -58,6 +58,7 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)** - Adds your main inventory, potion effects and your equipments to your HUD.
 * **[Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)** - Quick, simple, and lightweight inventory sorting.
 * **[Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)** - A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
+* **[LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)** - A dynamic lights mod.
 * **[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)** - An optimization mod for Minecraft which improves server performance significantly.
 * **[megane](https://www.curseforge.com/minecraft/mc-mods/megane)** - HWYLA/WTHIT plugin that shows more tooltip than you'll ever want.
 * **[Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)** - Adds a mod menu to view the list of mods you have installed.
