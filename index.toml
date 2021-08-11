@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "2963e14bd3e9a4598bbca7e7d9e2172d18a2a1d3fe5b5cd2c6dd9f612c6bb64f"
+hash = "eaf7cb974ac6ad2fa01df6cd93d67d5c3244477b41b8dc79300b2a9150e840d9"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage-fabric.toml"
-hash = "d8ba677ff810ca9121d37bde9e7284f85ad5564ddcce61ab067fd9e5903dd73f"
+hash = "3ca96d717a6cfc98512efa2339eebbf67566575ea33877fd04b82c41adbee07d"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "4453d1ec99ab954ebafe44fae15be22bf3233db6351161d2ac988efb9e7ca35e"
+hash = "4e4afedd46095b35ff3a2f9e228fbf2ea3d5432bf2cfaafbff96af35749501d2"
 metafile = true
 
 [[files]]
@@ -237,17 +237,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "cb8e8c9c82a018c6184a114f6c607375785643a545a44b86a0ae510e27640f09"
+hash = "79b9d8c43739f6b171ec2c0c46f071f018d5171a8b0c9f75a505935391043e44"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "a3338d179286af8703bee5b0e0ff6e836c0b5d197a57438f56ef5481e1adaf23"
+hash = "9d9518afcddeb5935c0d2ed56925fc3c23eea93c82bd58d7dacabd852ece5c7c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "53fedc72091eb28f2a826425ae7fa0874c42cc084ed265a02801afcf2cc5e3fc"
+hash = "af1ece7176b26c8116563748c6be503e6bfd1bdc07ee1fd6cb05be8fba319d7d"
 metafile = true
 
 [[files]]
