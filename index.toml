@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "61e0190866df7a2fb5d3377b8a4a8ab29da7138219322b0af33e8ac0b5406614"
+hash = "d72f1270fe0bbd58cf4b7d85e04537d5bcbc2517cef97dfe322a1b2aa7484877"
 metafile = true
 
 [[files]]
@@ -48,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/cave-biomes.toml"
 hash = "f3033dbdbdd24803abb78155dd96be15dcd00daba75516132c0f718014d154f9"
+metafile = true
+
+[[files]]
+file = "mods/charm.toml"
+hash = "4055468853b8eed3cb2a4be736298be14fa8a7883310cfb916310b122aa9a7fa"
 metafile = true
 
 [[files]]
@@ -76,6 +81,11 @@ hash = "9be4752f5a6038b07b9eabb77fdb0f7c6d02b402c8511a2114d82e2e2a042ed5"
 metafile = true
 
 [[files]]
+file = "mods/dark-paintings.toml"
+hash = "2b5c47476bbd156f1e89f3eafed273a36281a15e7bdb05d7181b5bb9b00f3a88"
+metafile = true
+
+[[files]]
 file = "mods/diggus-maximus.toml"
 hash = "97b99e0cc413477494bce149ad04afdb0f533bdc67dd004f671d0c44f3a697b8"
 metafile = true
@@ -92,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "4e4afedd46095b35ff3a2f9e228fbf2ea3d5432bf2cfaafbff96af35749501d2"
+hash = "26f656aafb2b7e5b07296c1a546b2068bd2adb6ce08ac897c6524025422d93cc"
 metafile = true
 
 [[files]]
@@ -103,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "fc01dca8a92724ac74d2a848b3aa06e70a3b05cb10fdb91c684abe684459ac1a"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-fabric.toml"
+hash = "60b673079c9c9720e3130d9574192cff58e0b5bebf78491a3cb439779ffd7bdc"
 metafile = true
 
 [[files]]
@@ -122,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "10cc3752a6b0b53f089fd79d282281739ab99b760c4b418dbd12b846d20dcdaf"
+hash = "85417c06794de53a86fc69c99ec26a9d8d6e2d5063b8d6eba0c4c7c3d641f875"
 metafile = true
 
 [[files]]
@@ -152,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/megane.toml"
-hash = "d943039c7bf4779c10a193a40d9b417628ea877bf8b0ae8891ebff985e643622"
+hash = "d890ae43d155d9aa022f35130800f633b9384d7530d6ece6732b693c2ddca9c9"
 metafile = true
 
 [[files]]
@@ -172,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "5bcde1c832a4a39997f83e0172a01875997722744134a6896484854801cb543d"
+hash = "8faa59c7ddec372276546b373e699f531f4ce921270182248cb28225e885e536"
 metafile = true
 
 [[files]]
@@ -221,6 +236,11 @@ hash = "66fa6e7240222d766a3182c840a5843374b5d0921c1a41253e35e51f28e0fbab"
 metafile = true
 
 [[files]]
+file = "mods/tool-stats.toml"
+hash = "33d0ab4d93be95654d42d8ac6351d75e42ba9aec28271c57cc66b5999aff4579"
+metafile = true
+
+[[files]]
 file = "mods/traverse.toml"
 hash = "5a401efbb4956e1a2d830f0f314e7362529feee42beeb54ba3a8a1fab9d6018e"
 metafile = true
@@ -242,14 +262,34 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "9d9518afcddeb5935c0d2ed56925fc3c23eea93c82bd58d7dacabd852ece5c7c"
+hash = "9bc508a401ce598078cab8d21554a1dbf5e945964391d6fc3b6cdbe9b46d8ee3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "af1ece7176b26c8116563748c6be503e6bfd1bdc07ee1fd6cb05be8fba319d7d"
+hash = "533d93848a7b2edf3d2f49c2c604dd58b18dc7910bfb13b726a5eb0faaffe748"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.0.01.zip"
-hash = "2f4da1e1d231c7723a3cf423c1df988cee8fa2ba564545a8ced40442797ea0cc"
+file = "mods/yungs-api-fabric.toml"
+hash = "d39561dfa540673aa5fbe6d13dc96b5216c27263ba224a544c2d5fc074af722e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves-fabric.toml"
+hash = "42e7435ac40618706808a5d3622093efa273ac2f3af0826c36a28ec8814904e6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.toml"
+hash = "fdb874f95c9f7b466cde9ef846b8b1636ebc235b00702a679c482e836e9e6730"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.toml"
+hash = "747bdeac7cd157381113e1178126311c8cadda0030dbe601b54e6f218bb99cc9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/BSL_v8.1p1.zip"
+hash = "95ba100c5bea40ffd34b5e9884eeb73329964559581e44f2f809e2386c8067d4"

@@ -24,17 +24,22 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[Mo' Structures](https://www.curseforge.com/minecraft/mc-mods/mo-structures)** - Mo' Structures is Fabric's best structure mod, adding new lore and adventure to your world!
 * **[Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)** - Adds more variations of vanilla structures and features!
 * **[Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse)** - A biome expansion mod that embraces the simplistic nature of Minecraft biomes.
+* **[YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves-fabric)** - Overhauled cave generation, underground lakes and rivers, lava oceans, and more!
+* **[YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)** - A long-awaited and much-needed abandoned mineshaft overhaul!
+* **[YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)** - A complete redesign of Minecraft's strongholds.
 
 ### Decorations, blocks
 
 * **[Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)** - Decorate your home! Adds furniture and many other decoration blocks.
 * **[Blockus](https://www.curseforge.com/minecraft/mc-mods/blockus)** - A mod that adds blocks!
+* **[Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)** - Adds new paintings to Minecraft.
 * **[Mo' Colors](https://www.curseforge.com/minecraft/mc-mods/mo-colors)** - Dye wool, glass, slime, concrete, slime blocks and bricks any colors you want!
 * **[Mo Glass](https://www.curseforge.com/minecraft/mc-mods/mo-glass)** - Adds glass stairs and glass slabs to Minecraft.
 
 ### Items, tools
 
 * **[BLAST 💣](https://www.curseforge.com/minecraft/mc-mods/blast)** - A mod about bombs.
+* **[Charm](https://www.curseforge.com/minecraft/mc-mods/charm)** - A vanilla+ mod inspired by Quark, adding lots of small things to the game.
 * **[Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric)** - Similar to Iron Chests except allows chests to merge along all 3 axis.
 * **[Extra Alchemy](https://www.curseforge.com/minecraft/mc-mods/extra-alchemy)** - A handful of Vanilla-friendly new potions.
 * **[Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces)** - A mod that adds more furnace versions to the game.
@@ -54,6 +59,7 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[Compressed Blocks for Fabric](https://www.curseforge.com/minecraft/mc-mods/compressed-blocks-for-fabric)** - Adds compressed blocks to Minecraft.
 * **[CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)** - Completely Customize the way others see you play in Discord!
 * **[Diggus Maximus](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus)** - Lightweight vein mining.
+* **[Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)** - Makes leaf particles fall from leaf blocks.
 * **[Illuminations 🔥](https://www.curseforge.com/minecraft/mc-mods/illuminations)** - A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.
 * **[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)** - Adds your main inventory, potion effects and your equipments to your HUD.
 * **[Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)** - Quick, simple, and lightweight inventory sorting.
@@ -64,6 +70,7 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)** - Adds a mod menu to view the list of mods you have installed.
 * **[Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)** - Performance improvements for Minecraft's lighting engine.
 * **[Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)** - Clean and Customizable. An easy way to browse recipes.
+* **[Tool Stats](https://www.curseforge.com/minecraft/mc-mods/tool-stats)** - Provides additional tooltip info for items.
 * **[WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)** - What the hell is that? A fork of Hwyla which is a fork of Waila.
 * **[Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)** - Displays the nearby world terrain, players, mobs, entities in the corner of your screen.
 * **[Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)** - Adds a fullscreen worldmap which shows you what you have explored in the world.
@@ -77,6 +84,7 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)** - Fabric language module for Kotlin.
 * **[LibCapableData (LibCD)](https://www.curseforge.com/minecraft/mc-mods/libcd)** - Improved data processing.
 * **[Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)** - Powering Team Reborn.
+* **[YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric)** - A library mod for some of YUNG's Minecraft mods (Fabric version).
 
 ## Installation guide
 First, get [packwiz installer bootstrapper](https://github.com/comp500/packwiz-installer-bootstrap/releases) and put it in the same directory as your Minecraft **instance** (`.minecraft` or `minecraft` directory, depending on your OS)
