@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "85417c06794de53a86fc69c99ec26a9d8d6e2d5063b8d6eba0c4c7c3d641f875"
+hash = "a0823b86601f467343c85edacf268f63b579b3c80420a3cfb5045da1d707fc71"
 metafile = true
 
 [[files]]
