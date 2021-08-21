@@ -13,8 +13,10 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 ### Technical
 
 * **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)** - An industrial mod made for Fabric.
+* **[Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)** - A standalone tech mod, where the ultimate objective is total automation.
 * **[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)** - Tech Reborn is a completely standalone tech mod including tools and machines to gather resources.
 * **[TIS-3D](https://www.curseforge.com/minecraft/mc-mods/tis-3d)** - Low-tech computing for Minecraft!
+* **[TIS-3D-Additions](https://www.curseforge.com/minecraft/mc-mods/tis-3d-additions)** - Adds a few tiny extras to TIS-3D.
 
 ### Worldgen
 
@@ -44,8 +46,10 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[Extra Alchemy](https://www.curseforge.com/minecraft/mc-mods/extra-alchemy)** - A handful of Vanilla-friendly new potions.
 * **[Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces)** - A mod that adds more furnace versions to the game.
 * **[Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)** - I need more inventory space! A backpack mod.
+* **[Lifts](https://www.curseforge.com/minecraft/mc-mods/lifts)** - A technology mod that adds various lifts for better vertical traversal inside your world.
 * **[Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)** - Nature's Compass is a utility item that allows you to search for a biome's location.
 * **[Netherite Plus Mod](https://www.curseforge.com/minecraft/mc-mods/netherite-plus-mod)** - Adds more netherite features to your game.
+* **[Quarry Reborn](https://www.curseforge.com/minecraft/mc-mods/quarry-reborn)** - This mod add Quarry (Miner) to Tech Reborn for Fabric.
 * **[Staff Of Building](https://www.curseforge.com/minecraft/mc-mods/staff-of-building)** - Adds in new staffs which can be used to speed up building.
 * **[Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators)** - Shovel alternative to Vanilla Hammers.
 * **[Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers)** - Adds a bunch of new hammers to the game!
@@ -59,6 +63,7 @@ You need [packwiz installer](https://github.com/comp500/packwiz-installer-bootst
 * **[Compressed Blocks for Fabric](https://www.curseforge.com/minecraft/mc-mods/compressed-blocks-for-fabric)** - Adds compressed blocks to Minecraft.
 * **[CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)** - Completely Customize the way others see you play in Discord!
 * **[Diggus Maximus](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus)** - Lightweight vein mining.
+* **[Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)** - Provides a way to get enchantment descriptions from enchanted books.
 * **[Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)** - Makes leaf particles fall from leaf blocks.
 * **[Illuminations 🔥](https://www.curseforge.com/minecraft/mc-mods/illuminations)** - A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.
 * **[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)** - Adds your main inventory, potion effects and your equipments to your HUD.

@@ -91,6 +91,11 @@ hash = "97b99e0cc413477494bce149ad04afdb0f533bdc67dd004f671d0c44f3a697b8"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.toml"
+hash = "78fd1bfb43c83e47a55e89b99526c57dbdeb9da43fdc465f2af1ffca5b6930c6"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage-fabric.toml"
 hash = "3ca96d717a6cfc98512efa2339eebbf67566575ea33877fd04b82c41adbee07d"
 metafile = true
@@ -161,6 +166,11 @@ hash = "a7156f6e5dce792da3250d6d4656cdd7b76866bb1c788b1a7d9ff92215234a0b"
 metafile = true
 
 [[files]]
+file = "mods/lifts.toml"
+hash = "eb94b76e1545e13d368d45c77debdd3b954baa527583a6c73ccd4df365af9917"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "08f60b30a7267de38af1c8780bb0932e02fa0bafbb49290d8c224fb2102415ed"
 metafile = true
@@ -186,6 +196,11 @@ hash = "16048a85ecb39fe88f3790e82ea6e57223ed3c860318d565c085d2b93da71f60"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.toml"
+hash = "004eb1f51526796231d56dc81acd94a36358a9db514983e23b507f202128a217"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "8faa59c7ddec372276546b373e699f531f4ce921270182248cb28225e885e536"
 metafile = true
@@ -203,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "fc6d55dfad363110ca81ffda6510dac8aa3cecdad04d0ded6ed9e706764b2825"
+metafile = true
+
+[[files]]
+file = "mods/quarry-reborn.toml"
+hash = "f143ec05baf2ce1505321d0a6fcb5372edd8ed5ad13d521cf54e19caa7f51265"
 metafile = true
 
 [[files]]
@@ -228,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.toml"
 hash = "c6f5f693d609f24e6955cb4f2df057a18606e6cb12efbf4e7e5595213f9f4122"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d-additions.toml"
+hash = "a59f71e82e605d680ff752da25e5f6164584fa6cccdf227e1130969339e9d3ab"
 metafile = true
 
 [[files]]
