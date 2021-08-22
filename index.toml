@@ -251,11 +251,6 @@ hash = "c6f5f693d609f24e6955cb4f2df057a18606e6cb12efbf4e7e5595213f9f4122"
 metafile = true
 
 [[files]]
-file = "mods/tis-3d-additions.toml"
-hash = "a59f71e82e605d680ff752da25e5f6164584fa6cccdf227e1130969339e9d3ab"
-metafile = true
-
-[[files]]
 file = "mods/tis-3d.toml"
 hash = "66fa6e7240222d766a3182c840a5843374b5d0921c1a41253e35e51f28e0fbab"
 metafile = true
