@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "9be4752f5a6038b07b9eabb77fdb0f7c6d02b402c8511a2114d82e2e2a042ed5"
+hash = "70a5b050c89d648733aaa79efa6354969ae2db700987cba8a42c5b0d49334c86"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "abde5514be2ef1b730e2e2140b9b5d761cfacb75d902d5502e896495eecc5b21"
+hash = "63cc165ab1487c2ef9cf7ba725f8bcd5831c325f2e3091645ba38f62efc3d790"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "9bc508a401ce598078cab8d21554a1dbf5e945964391d6fc3b6cdbe9b46d8ee3"
+hash = "a42354273894cd3cb2a781df9a519879e1b1b20418d67f89d623e865cafefc60"
 metafile = true
 
 [[files]]
