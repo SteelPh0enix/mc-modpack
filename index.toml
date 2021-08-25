@@ -131,6 +131,11 @@ hash = "9e65a3bf90feac8f79c6127378d9ee0a29976f74cf46bf105be808b6f6d42a0a"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "ab27efec396c923a7e760dd00e606ad99a7f47a2e5e880af1b88bd820c04da2b"
+metafile = true
+
+[[files]]
 file = "mods/industrial-revolution.toml"
 hash = "184a2d8f52feb7a1e600ac0c297381e5ef58ac0d9f70ac84c7ed514021499267"
 metafile = true
